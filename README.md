@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="alphafastdistortion.png" width="800" alt="AlphaFastDistortion VST3 Plugin Interface">
+  <img src="alphafastdistoriton.png" width="800" alt="AlphaFastDistortion VST3 Plugin Interface">
 </p>
 
 
